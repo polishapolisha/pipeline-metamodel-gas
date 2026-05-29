@@ -3,7 +3,7 @@
   "branchId": "b7100fa2-3f36-4f34-aaaa-948a65356b94",
   "branchName": "main",
   "repositoryName": "pipeline-gas",
-  "exportedAt": "2026-05-29T11:57:30.2156344Z",
+  "exportedAt": "2026-05-29T12:01:32.517007Z",
   "objectTypes": [
     {
       "id": "a4806b8d-7a83-4c6e-bca0-0a76fe625586",
@@ -84,8 +84,8 @@
     {
       "id": "ae2d761a-8518-47de-a4bc-7cff0d4a2341",
       "code": "VALVE",
-      "name": "Задвижка",
-      "description": "Задвижка в трубопроводе между поставщиком и потребителем",
+      "name": "Кран",
+      "description": "Кран в трубопроводе между поставщиком и потребителем",
       "category": "valve",
       "parentId": "a4806b8d-7a83-4c6e-bca0-0a76fe625586",
       "parent": null,
@@ -94,7 +94,7 @@
       "icon": null,
       "isAbstract": false,
       "createdAt": "2026-05-20T14:30:58.235656Z",
-      "updatedAt": "2026-05-20T14:30:58.238571Z",
+      "updatedAt": "2026-05-29T11:59:39.573693Z",
       "parameters": null,
       "referencedByParameters": null,
       "branchId": "b7100fa2-3f36-4f34-aaaa-948a65356b94",
