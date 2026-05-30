@@ -3,7 +3,7 @@
   "branchId": "b7100fa2-3f36-4f34-aaaa-948a65356b94",
   "branchName": "main",
   "repositoryName": "pipeline-gas",
-  "exportedAt": "2026-05-29T12:01:32.517007Z",
+  "exportedAt": "2026-05-30T19:55:21.013886Z",
   "objectTypes": [
     {
       "id": "a4806b8d-7a83-4c6e-bca0-0a76fe625586",
@@ -1424,6 +1424,21 @@
       "height": 2736,
       "usageType": "photo",
       "uploadedAt": "2026-05-29T06:57:25.681374Z",
+      "iconForTypes": null,
+      "branchId": "b7100fa2-3f36-4f34-aaaa-948a65356b94",
+      "branch": null
+    },
+    {
+      "id": "0c3de083-eee5-4e25-b6e9-30405d64da04",
+      "title": "прикол",
+      "fileName": "DSC01641.JPG",
+      "filePath": "DSC01641.JPG",
+      "mimeType": "image/jpeg",
+      "fileSize": 3818932,
+      "width": 2736,
+      "height": 3648,
+      "usageType": "icon",
+      "uploadedAt": "2026-05-30T19:54:55.697657Z",
       "iconForTypes": null,
       "branchId": "b7100fa2-3f36-4f34-aaaa-948a65356b94",
       "branch": null
