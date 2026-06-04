@@ -3,7 +3,7 @@
   "branchId": "b7100fa2-3f36-4f34-aaaa-948a65356b94",
   "branchName": "main",
   "repositoryName": "pipeline-gas",
-  "exportedAt": "2026-05-30T19:55:21.013886Z",
+  "exportedAt": "2026-06-04T17:45:35.3533201Z",
   "objectTypes": [
     {
       "id": "a4806b8d-7a83-4c6e-bca0-0a76fe625586",
@@ -1369,51 +1369,6 @@
   ],
   "images": [
     {
-      "id": "b10c6136-37f4-4f37-bc11-e54dc454dea5",
-      "title": null,
-      "fileName": "DSC01641.JPG",
-      "filePath": "DSC01641.JPG",
-      "mimeType": "image/jpeg",
-      "fileSize": 3822846,
-      "width": 3648,
-      "height": 2736,
-      "usageType": "icon",
-      "uploadedAt": "2026-05-21T21:45:17.578449Z",
-      "iconForTypes": null,
-      "branchId": "b7100fa2-3f36-4f34-aaaa-948a65356b94",
-      "branch": null
-    },
-    {
-      "id": "81fdd405-d5b6-4d04-ac62-0c82c63ac785",
-      "title": "zz",
-      "fileName": "DSC01641.JPG",
-      "filePath": "DSC01641.JPG",
-      "mimeType": "image/jpeg",
-      "fileSize": 3822846,
-      "width": 3648,
-      "height": 2736,
-      "usageType": "icon",
-      "uploadedAt": "2026-05-21T21:50:43.67665Z",
-      "iconForTypes": null,
-      "branchId": "b7100fa2-3f36-4f34-aaaa-948a65356b94",
-      "branch": null
-    },
-    {
-      "id": "c9b2d213-842d-4a34-baf3-caae5c932c9e",
-      "title": "ыыы",
-      "fileName": "DSC01641.JPG",
-      "filePath": "DSC01641.JPG",
-      "mimeType": "image/jpeg",
-      "fileSize": 3822846,
-      "width": 3648,
-      "height": 2736,
-      "usageType": "icon",
-      "uploadedAt": "2026-05-21T22:03:30.715086Z",
-      "iconForTypes": null,
-      "branchId": "b7100fa2-3f36-4f34-aaaa-948a65356b94",
-      "branch": null
-    },
-    {
       "id": "3e95df90-8003-4aa7-a75e-8cb780a738ae",
       "title": "проверка фильтров",
       "fileName": "DSC01649.JPG",
@@ -1429,16 +1384,16 @@
       "branch": null
     },
     {
-      "id": "0c3de083-eee5-4e25-b6e9-30405d64da04",
-      "title": "прикол",
+      "id": "8d6394ab-caab-4973-86c4-f6cad31268bc",
+      "title": "Кран",
       "fileName": "DSC01641.JPG",
       "filePath": "DSC01641.JPG",
       "mimeType": "image/jpeg",
       "fileSize": 3818932,
       "width": 2736,
       "height": 3648,
-      "usageType": "icon",
-      "uploadedAt": "2026-05-30T19:54:55.697657Z",
+      "usageType": "diagram",
+      "uploadedAt": "2026-06-04T17:42:41.291608Z",
       "iconForTypes": null,
       "branchId": "b7100fa2-3f36-4f34-aaaa-948a65356b94",
       "branch": null
